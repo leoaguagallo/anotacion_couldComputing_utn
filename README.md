@@ -1,17 +1,21 @@
 # Cloud Computing
 
-## Agenda
-
-**La administración de TI**
-
-Las capacidades locales de computo se pueden llevar ala nube, la pregunta es ¿Cómo decidir si llevamos a la nube o no?
+## Contenido
++ La administración de TI
++ La visión de Cloud Computing
 
 # La administración de TI local
+
+Las tecnologías o capacidades locales de computo se pueden llevar ala nube, la pregunta es ¿Cómo decidir si llevamos a la nube o no?
 
 Se requiere un equipo de personas con conocimientos de las distintas áreas para administrar de manera efectiva un infraestructura de TI
 
 Fases de la administración:
 + Planificación y administración
++ Evaluación y monitoreo de resultado
+
+## Planificación y administración
+Se debe tener claro cual son los objetivos de TI, uno de los objetivos principales de áreas de tecnología es:
 + Garantizar la disponibilidad y confiabilidad de TI
 
 TI se conforma de:
@@ -60,6 +64,9 @@ Aplicaciones:
 
 # Visión del Cloud Computing
 
+La computación en la nube, ​ conocida también como servicios en la nube, nube de cómputo o simplemente «la nube», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
+
+Los tres componente principales de la computación en la nube son:
 + IaaS (host)
 + PaaS (build)
 + SaaS (Service, consume)
@@ -70,8 +77,8 @@ Aplicaciones:
 
 ## Recursos Cloud
 
-+ IaaS ()
-+ PaaS ()
++ IaaS (Infraestructura como servicio)
++ PaaS (Plataforma como servicio)
 + SaaS (Software como servicio)
 
 Otros recursos como:
@@ -80,19 +87,35 @@ Otros recursos como:
 + CaaS: Communication as a Service o comunicación como servicio. 
 + MaaS: Monitoring as a Service, monitoreo como servicio
 + TaaS: Tools as a Service, herramientas como servicio
-+ EaaS, XaaS, o *aaS: Todo o cualquier cosa como servicio. 
++ EaaS, XaaS, o *aaS: Todo como servicio. 
 
-## Modelo de despliegue
-Hace a referencia al despliegue o al fin de la nube, como:
+## Lo básico de Cloud Computing 
+
+### Modelos de servicio
++ IaaS (Infraestructura como servicio)
++ PaaS (Plataforma como servicio)
++ SaaS (Software como servicio)
+
+### Modelo de despliegue
+Hace a referencia al despliegue o a la forma de uso de la nube, como:
 + Comunitaria: Servicio gratuitos
-+ Hybrida: Servicios gratuitos, pero si requieres mas servicios son pagodos.
-+ Privada
++ Hybrida: Servicios gratuitos, pero si requieres mas servicios son pagados (Google, Office 365).
++ Privada: Servicio especializado a empresas o sociedad de usuario.
 + Publica
 
+### Atributos de servicio
++ Acceso a redes de alta velocidad (Debe tener el contratante)
++ Servicio de monitoreo
++ Servicios propios o bajo demanda
++ Rápida elasticidad.
 
 ## Características
 
-+ Autoservicio bajo demanda
++ Autoservicio bajo demanda: Servicio sin interacción al personal del proveedor.
++ Acceso completo a la red: Acceso a los recursos con métodos estándares, independientes del medio o OS (Sistema Operativo)
++ Agrupación y distribución de recursos:  Recursos agrupados y distribuidos entre varios usuarios.
++ Elasticidad rápida: Recursos entregados de forma rápida y elástica de acuerdo a las necesidades del usuario. 
++ Medición del servicio: El uso de servicios debe ser medido, auditado y reportado al cliente (auto mejora).
 
 ## Ventajas
 
