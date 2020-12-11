@@ -64,7 +64,7 @@ Aplicaciones:
 
 # Visión del Cloud Computing
 
-La computación en la nube, ​ conocida también como servicios en la nube, nube de cómputo o simplemente «la nube», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
+La computación en la nube, ​ conocida también como servicios en la nube, nube de cómputo o simplemente «**la nube**», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
 
 Los tres componente principales de la computación en la nube son:
 + IaaS (host)
@@ -82,11 +82,11 @@ Los tres componente principales de la computación en la nube son:
 + SaaS (Software como servicio)
 
 Otros recursos como:
-+ FaaS: Archivos como servicios como Dropbox
-+ DbaaS: Data Storage as a Service, almacenamiento de base  de datos como servicios. 
-+ CaaS: Communication as a Service o comunicación como servicio. 
-+ MaaS: Monitoring as a Service, monitoreo como servicio
-+ TaaS: Tools as a Service, herramientas como servicio
++ FaaS: *File as a Service*,Archivos como servicios como Dropbox
++ DbaaS: *Data Storage as a Service*, almacenamiento de base  de datos como servicios. 
++ CaaS: *Communication as a Service* o comunicación como servicio. 
++ MaaS: *Monitoring as a Service*, monitoreo como servicio
++ TaaS: *Tools as a Service*, herramientas como servicio
 + EaaS, XaaS, o *aaS: Todo como servicio. 
 
 ## Lo básico de Cloud Computing 
